@@ -1,0 +1,13 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore face database directory
+face_database/
+
+# Ignore all JPG and JPEG images
+*.jpg
+*.jpeg
+
+# Ignore specific system log and environment files
+system_log.txt
+.env
